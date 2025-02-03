@@ -1,0 +1,14 @@
+.Event {
+  display: grid;
+  gap: 16px;
+}
+
+.NewEvent {
+  display: grid;
+  gap: 16px;
+}
+
+.EditEvent {
+  display: grid;
+  gap: 16px;
+}

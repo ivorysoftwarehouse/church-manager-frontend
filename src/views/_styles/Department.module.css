@@ -1,0 +1,9 @@
+.Department {
+  display: grid;
+  gap: 16px;
+}
+
+.NewDepartment {
+  display: grid;
+  gap: 16px;
+}

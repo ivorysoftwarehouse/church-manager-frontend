@@ -1,0 +1,9 @@
+.Churches {
+  display: grid;
+  gap: 16px;
+}
+
+.NewChurch {
+  display: grid;
+  gap: 16px;
+}
